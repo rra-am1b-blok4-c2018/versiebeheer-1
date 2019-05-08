@@ -5,4 +5,5 @@
   $tekst = new Tekst();
 
   echo $tekst->wattekst;
+  echo $tekst->nieuwetekst;
 ?>
