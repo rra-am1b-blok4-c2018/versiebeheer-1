@@ -4,6 +4,7 @@
 
   $tekst = new Tekst();
 
-  echo $tekst->wattekst;
-  echo $tekst->nieuwetekst;
+  echo $tekst->wattekst . "<hr>";
+  echo $tekst->nieuwetekst . "<hr>";
+  echo $tekst->tekst1 . "<hr>";
 ?>

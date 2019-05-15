@@ -3,5 +3,7 @@
     // Fields
     var $wattekst = "Dit is een tekst met een alternative fact erin.";
     var $nieuwetekst = "Dit is de derde commit die ik maak";
+    var $tekst1 = "Dit is de vierde commit die ik maak";
+
   }
 ?>
