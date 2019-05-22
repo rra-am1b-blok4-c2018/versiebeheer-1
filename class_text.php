@@ -9,6 +9,7 @@
     var $tekst4 = "Dit is de zevende commit die ik maak";
     var $tekst5 = "We gaan vandaag samenwerken";
     var $tekst6 = "Nieuwe wijziging";
+    var $tekst7 = "Dit is een nieuwe wijziging";
 
   }
 ?>
