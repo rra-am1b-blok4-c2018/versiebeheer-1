@@ -10,5 +10,5 @@
   echo $tekst->tekst2 . "<hr>";
   echo $tekst->tekst3 . "<hr>";
   echo $tekst->tekst4 . "<hr>";
-  
+  echo $tekst->tekst7 . "<hr>";
 ?>
