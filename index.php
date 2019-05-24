@@ -11,5 +11,6 @@
   echo $tekst->tekst3 . "<hr>";
   echo $tekst->tekst4 . "<hr>";
   echo $tekst->tekst7 . "<hr>";
-  echo $tekst->tekst8 . "<hr>";;
+  echo $tekst->tekst8 . "<hr>";
+  echo "Dit is een test";
 ?>
