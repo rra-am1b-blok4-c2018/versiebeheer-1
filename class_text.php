@@ -10,6 +10,7 @@
     var $tekst5 = "We gaan vandaag samenwerken";
     var $tekst6 = "Nieuwe wijziging";
     var $tekst7 = "uithof";
+    var $tekst8 = "In de trein";
 
   }
 ?>
