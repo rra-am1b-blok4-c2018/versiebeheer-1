@@ -14,6 +14,6 @@
   echo $tekst->tekst8 . "<hr>";
   echo "Dit is een test";
   echo "Naam veranderd";
-  echo "Weer een verandering
-  ";
+  echo "Weer een verandering";
+  echo "Change";
 ?>
